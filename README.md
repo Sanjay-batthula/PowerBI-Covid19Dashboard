@@ -40,11 +40,8 @@ Explore the interactive dashboard in Power BI.
 
 📂 Project Structure
 
-📁 PowerBI-COVID19-Dashboard
-│-- 📂 Reports       # Power BI (.pbix) file for dashboard
-│-- 📂 Screenshots   # Snippets of the dashboard
-│-- 📂 Documentation   # Scripts of the project
-│-- README.md       # Project documentation
+![image](https://github.com/user-attachments/assets/f7ced29d-52bd-4c0c-8331-1f617b959e7e)
+
 
 📜 Data Source
 
