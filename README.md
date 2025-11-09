@@ -1,70 +1,54 @@
-📌 Project Overview
+# 🦠 Power BI — Global COVID-19 Dashboard
 
-This Power BI project provides a detailed analysis of global COVID-19 data, tracking cases, recoveries, deaths, and vaccination trends. The dashboard offers interactive visualizations to help users explore data insights across different regions and timeframes, supporting data-driven decision-making.
+## 📌 Project Overview  
+This Power BI project delivers an interactive analysis of **global COVID-19 data**, including confirmed cases, recoveries, deaths, and vaccination progress.  
+It enables **data-driven insights** with dynamic dashboards to explore trends across countries, regions, and timeframes.
 
-🚀 Features
+---
 
-Interactive Dashboards: Filter data by country, region, and date.
+## 🚀 Features  
+- **Interactive Dashboards:** Filter data by country, region, and date.  
+- **Time-Series Analysis:** Track daily and cumulative cases, recoveries, and deaths.  
+- **Geospatial Mapping:** Visualize COVID-19 spread globally.  
+- **Data Cleaning & Modeling:** Optimized datasets for performance and accuracy.  
+- **DAX Functions:** Calculate key metrics and create custom KPIs.  
+- **Custom Visuals:** Line charts, bar charts, pie charts, and performance indicators.
 
-Time-Series Analysis: Monitor trends in COVID-19 cases, recoveries, and deaths.
+---
 
-Geospatial Mapping: Visual representation of COVID-19 spread across regions.
+## 📊 Tools & Technologies  
+- **Power BI** – Data visualization and dashboard design  
+- **SQL** – Data extraction and transformation  
+- **Python (Pandas, NumPy)** – Data preprocessing and analytics  
+- **DAX (Data Analysis Expressions)** – For advanced Power BI measures  
 
-Data Cleaning & Modeling: Optimized datasets for performance and accuracy.
+---
+## PowerBI-Covid19Dashboard/
+│
+├── Data/                # Raw and cleaned datasets
+├── Reports/             # Power BI .pbix file
+├── Scripts/             # SQL/Python scripts
+├── Assets/              # Screenshots and visuals
+└── README.md            # Documentation
 
-DAX Functions: Used to calculate key metrics and custom measures.
+## 📜 Data Source
+- Data sourced from the TrackCorona API
+- Periodically updated for real-time trends
 
-Custom Visuals: Line charts, bar charts, pie charts, and KPIs for deep insights.
+## 🛠 Future Improvements
 
-📊 Tools & Technologies
+- Automate updates via Power BI Service or API
+- Add predictive analytics for forecasting
+- Integrate storytelling visuals for impact
 
-Power BI: For data visualization and dashboard creation.
+## 🤝 Contributing
 
-SQL: For data extraction and transformation.
+- Contributions are welcome!
+- Fork this repo, make changes, and submit a pull request.
 
-Python (Pandas, NumPy): For data preprocessing and analysis.
+## 📞 Contact
+- 📧 Email: sanjaybatthula24@gmail.com
+- 💼 LinkedIn: linkedin.com/in/sanjaybatthula
 
-DAX (Data Analysis Expressions): For advanced calculations in Power BI.
-
-🔧 Setup & Installation
-
-Clone the repository:
-
-git clone https://github.com/Sanjay-batthula/PowerBI-Covid19Dashboard.git
-
-Open Power BI and load the provided dataset.
-
-Navigate to the Reports folder to access the Power BI (.pbix) file.
-
-Explore the interactive dashboard in Power BI.
-
-📂 Project Structure
-
-![image](https://github.com/user-attachments/assets/f7ced29d-52bd-4c0c-8331-1f617b959e7e)
-
-
-📜 Data Source
-
-The dataset is sourced from TrackCorona API.
-
-The data is updated periodically to reflect real-time trends.
-
-🛠 Future Improvements
-
-Automate data updates using Power BI service or API integration.
-
-Enhance visual storytelling with more advanced Power BI custom visuals.
-
-Implement predictive analytics for forecasting COVID-19 trends.
-
-📌 Contributing
-
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
-
-📞 Contact
-
-For any questions or suggestions, reach out via LinkedIn or email at sanjaybatthula24@gmail.com.
-
-🏆 Acknowledgments
-
-Special thanks to Power BI Community,and WHO for providing valuable resources and datasets.
+## 🏆 Acknowledgments
+Special thanks to Power BI Community and WHO for providing valuable resources and datasets.
