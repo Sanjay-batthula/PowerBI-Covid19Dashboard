@@ -1,28 +1,31 @@
 # 🦠 Power BI — Global COVID-19 Dashboard
 
 ## 📌 Project Overview  
-This Power BI project delivers an interactive analysis of **global COVID-19 data**, including confirmed cases, recoveries, deaths, and vaccination progress.  
-It enables **data-driven insights** with dynamic dashboards to explore trends across countries, regions, and timeframes.
+This Power BI project provides an **interactive analysis of global COVID-19 data**, covering confirmed cases, recoveries, deaths, and vaccination progress.  
+It empowers users with **data-driven insights** through dynamic dashboards, enabling exploration of trends across countries, regions, and timeframes.
 
 ---
 
 ## 🚀 Features  
-- **Interactive Dashboards:** Filter data by country, region, and date.  
+- **Interactive Dashboards:** Filter and compare data by country, region, and date.  
 - **Time-Series Analysis:** Track daily and cumulative cases, recoveries, and deaths.  
-- **Geospatial Mapping:** Visualize COVID-19 spread globally.  
-- **Data Cleaning & Modeling:** Optimized datasets for performance and accuracy.  
-- **DAX Functions:** Calculate key metrics and create custom KPIs.  
-- **Custom Visuals:** Line charts, bar charts, pie charts, and performance indicators.
+- **Geospatial Mapping:** Visualize COVID-19 spread worldwide.  
+- **Data Cleaning & Modeling:** Structured and optimized datasets for performance and accuracy.  
+- **DAX Functions:** Custom KPIs and calculated measures for advanced analytics.  
+- **Custom Visuals:** Includes line, bar, and pie charts along with KPI indicators.
 
 ---
 
 ## 📊 Tools & Technologies  
-- **Power BI** – Data visualization and dashboard design  
+- **Power BI** – Data visualization & dashboard creation  
 - **SQL** – Data extraction and transformation  
-- **Python (Pandas, NumPy)** – Data preprocessing and analytics  
-- **DAX (Data Analysis Expressions)** – For advanced Power BI measures  
+- **Python (Pandas, NumPy)** – Data preprocessing and analysis  
+- **DAX (Data Analysis Expressions)** – Advanced Power BI calculations  
 
 ---
+
+## 📂 Project Structure  
+
 ## PowerBI-Covid19Dashboard/
 │
 ├── Data/                # Raw and cleaned datasets
@@ -31,24 +34,33 @@ It enables **data-driven insights** with dynamic dashboards to explore trends ac
 ├── Assets/              # Screenshots and visuals
 └── README.md            # Documentation
 
-## 📜 Data Source
-- Data sourced from the TrackCorona API
-- Periodically updated for real-time trends
+---
 
-## 🛠 Future Improvements
+## 📜 Data Source  
+- Data sourced from the **TrackCorona API**  
+- Updated periodically to reflect **real-time global trends**  
 
-- Automate updates via Power BI Service or API
-- Add predictive analytics for forecasting
-- Integrate storytelling visuals for impact
+---
 
-## 🤝 Contributing
+## 🛠 Future Improvements  
+- Automate updates via Power BI Service or API integration  
+- Incorporate predictive analytics for forecasting COVID-19 trends  
+- Enhance storytelling visuals for better data interpretation  
 
-- Contributions are welcome!
-- Fork this repo, make changes, and submit a pull request.
+---
 
-## 📞 Contact
-- 📧 Email: sanjaybatthula24@gmail.com
-- 💼 LinkedIn: linkedin.com/in/sanjaybatthula
+## 🤝 Contributing  
+- Contributions are always welcome!  
+- Fork this repository, make improvements, and submit a pull request.  
 
-## 🏆 Acknowledgments
-Special thanks to Power BI Community and WHO for providing valuable resources and datasets.
+---
+
+## 📞 Contact  
+- 📧 **Email:** [sanjaybatthula24@gmail.com](mailto:sanjaybatthula24@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/sanjaybatthula](https://linkedin.com/in/sanjaybatthula)  
+
+---
+
+## 🏆 Acknowledgments  
+Special thanks to the **Power BI Community** and **World Health Organization (WHO)** for providing valuable datasets and learning resources.  
+---
